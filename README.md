@@ -1,6 +1,6 @@
 # jpa03-arthurwu17
 
-Running at: <https://jpa03-arthurwu17.dokku-12.cs.ucsb.edu/u>
+Running at: <https://jpa03-arthurwu17.dokku-12.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
